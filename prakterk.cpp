@@ -43,19 +43,19 @@ int main (){
 			diskon = total * (35/100);
 		}
   cout<<"Total Harga  : Rp. "<<total<<endl;
-   cout<<"Ongkir	: "<<ongkir<<endl;
+  cout<<"Ongkir	: "<<ongkir<<endl;
   cout<<"Diskon	: "<<diskon<<endl;
   cout<<"Total bayar : "<<total_bayar<<endl;
   cout<<"Uang yang Dibayar : Rp. ";
   cin>>bayar;
-   kembali=bayar-total;
+  kembali=bayar-total;
   cout<<"Kembali   : Rp. "<<kembali<<endl;
   cout<<"Masih ada Y/T  : ";
   cin>>yt;
   break;
  case 2:
   cout<<"\nAyam Goreng"<<endl;
-   harga=17000;
+  harga=17000;
   cout<<"Masukan Jumlah Pesanan : ";
   cin>>jumlah;
    total=harga*jumlah;
@@ -78,7 +78,7 @@ int main (){
 			diskon = total * (35/100);
 		}
   cout<<"Total Harga  : Rp. "<<total<<endl;
-   cout<<"Ongkir	: "<<ongkir<<endl;
+  cout<<"Ongkir	: "<<ongkir<<endl;
   cout<<"Diskon	: "<<diskon<<endl;
   cout<<"Total bayar : "<<total_bayar<<endl;
   cout<<"Uang yang Dibayar : Rp. ";
@@ -113,19 +113,19 @@ int main (){
 			diskon = total * (35/100);
 		}
   cout<<"Total Harga  : Rp. "<<total<<endl;
-   cout<<"Ongkir	: "<<ongkir<<endl;
+  cout<<"Ongkir	: "<<ongkir<<endl;
   cout<<"Diskon	: "<<diskon<<endl;
   cout<<"Total bayar : "<<total_bayar<<endl;
   cout<<"Uang yang Dibayar : Rp. ";
   cin>>bayar;
-   kembali=bayar-total;
+  kembali=bayar-total;
   cout<<"Kembali   : Rp. "<<kembali<<endl;
   cout<<"Masih ada Y/T  : ";
   cin>>yt;
   break;
  case 4:
   cout<<"\nCumi Goreng"<<endl;
-   harga=20000;
+  harga=20000;
   cout<<"Masukan Jumlah Pesanan : ";
   cin>>jumlah;
    total=harga*jumlah;
@@ -154,14 +154,14 @@ int main (){
   cout<<"Total bayar : "<<total_bayar<<endl;
   cout<<"Uang yang Dibayar : Rp. ";
   cin>>bayar;
-   kembali=bayar-total;
+  kembali=bayar-total;
   cout<<"Kembali   : Rp. "<<kembali<<endl;
   cout<<"Masih ada Y/T  : ";
   cin>>yt;
   break;
   case 5:
   cout<<"\nAyam Bakar"<<endl;
-   harga=25000;
+  harga=25000;
   cout<<"Masukan Jumlah Pesanan : ";
   cin>>jumlah;
    total=harga*jumlah;
@@ -184,12 +184,12 @@ int main (){
 			diskon = total * (35/100);
 		}
   cout<<"Total Harga  : Rp. "<<total<<endl;
-   cout<<"Ongkir	: "<<ongkir<<endl;
+  cout<<"Ongkir	: "<<ongkir<<endl;
   cout<<"Diskon	: "<<diskon<<endl;
   cout<<"Total bayar : "<<total_bayar<<endl;
   cout<<"Uang yang Dibayar : Rp. ";
   cin>>bayar;
-   kembali=bayar-total;
+  kembali=bayar-total;
   cout<<"Kembali   : Rp. "<<kembali<<endl;
   cout<<"Masih ada Y/T  : ";
   cin>>yt;
